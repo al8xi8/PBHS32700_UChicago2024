@@ -1,8 +1,7 @@
 ********************************************************************************
 * Homework 3 Solutions
 * Course: PBHS 32700/STAT 22700, Spring 2024
-* Student Name: [Your Name Here]
-* Date: [Current Date]
+* Name: Alexandra Chang
 ********************************************************************************
 
 * Problem 1: Toxicity of Rotenone on Chrysanthemum Aphids
