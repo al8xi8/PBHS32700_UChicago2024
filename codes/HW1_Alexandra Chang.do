@@ -2,8 +2,7 @@
 ********************************************************************************
 * Homework 1 Solutions
 * Course: PBHS 32700/STAT 22700, Spring 2024
-* Student Name: Alexandra Chang
-* Date: [Insert Date]
+* Name: Alexandra Chang
 ********************************************************************************
 
 * Problem 2: Cigarette Smoke Experiment on Mice
