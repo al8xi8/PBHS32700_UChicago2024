@@ -1,21 +1,24 @@
 # PBHS 32700: Biostatistical Methods
 
-**Term**: Spring 2024  
-**Language**: Stata  
-**Instructor**: Dr. Lin Chen
+This repository contains coursework, notes, and Stata code for PBHS 32700 / STAT 22700, a graduate-level course on categorical data analysis and survival analysis offered by the Department of Public Health Sciences at the University of Chicago. The course emphasizes the interpretation and application of statistical methods for binary, count, and time-to-event data using Stata.
+
+## Course Overview
+
+- **Term**: Spring 2024
+- **Language**: Stata
+- **Instructor**: Dr. Lin Chen
 
 ## Course Description
 
-This course focuses on methods for analyzing categorical and time-to-event data commonly encountered in medicine and public health. Emphasis is placed on the application and interpretation of models rather than statistical theory. Topics covered include contingency tables, logistic regression, ordinal and nominal regression models, Poisson regression, and survival analysis (including Kaplan-Meier, parametric survival models, and the Cox proportional hazards model).
+This course introduces statistical methods commonly used to analyze categorical and survival data in public health and medical research. Topics include:
 
-## Topics Include
-
-- Binary Outcome Analysis
-- Logistic Regression
-- Goodness-of-Fit and Model Comparison
-- Model Diagnostics and Overdispersion
-- Probit and Complementary Log-Log (Cloglog) Models
-- Ordinal and Multinomial Logistic Regression
-- Poisson Regression
-- Kaplan-Meier Survival Analysis
-- Parametric and Cox Proportional Hazards Models
+- Contingency tables and measures of association
+- Logistic regression for binary outcomes
+- Ordinal and nominal logistic regression models
+- Model building and diagnostics for logistic models
+- Poisson and negative binomial regression for count outcomes
+- Kaplan-Meier methods for survival analysis
+- Cox proportional hazards models
+- Parametric survival models (e.g., exponential, Weibull)
+- Model interpretation and adjusted estimates
+- Use of **Stata** to conduct biostatistical analyses and interpret results
