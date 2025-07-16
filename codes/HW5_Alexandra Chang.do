@@ -1,8 +1,7 @@
 ********************************************************************************
 * Homework 5 Solutions
 * Course: PBHS 32700/STAT 22700, Spring 2024
-* Student Name: [Your Name Here]
-* Date: [Current Date]
+* Name: Alexandra Chang
 ********************************************************************************
 
 * Problem 1: Effect of Cigarette Smoke on Mice (Ordinal and Multinomial Logistic Regression)
